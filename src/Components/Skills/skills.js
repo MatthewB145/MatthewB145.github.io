@@ -31,7 +31,7 @@ const Skills = () =>{
                     <img src={cpic} alt="C++" className="skillBarImg"></img>
                     <div className="skillBarText">
                         <h2>C++ Proficiency</h2>
-                        <p></p>
+                        <p>Created efficient agorithms and programs in C++</p>
                     </div>
                 </div>
                 <div className="skillBar">
